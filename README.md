@@ -12,6 +12,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/devhuz/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/devhuz/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/devhuz/LeetCode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3379-transformed-array](https://github.com/devhuz/LeetCode-Solutions/tree/master/3379-transformed-array) |
 | [3637-trionic-array-i](https://github.com/devhuz/LeetCode-Solutions/tree/master/3637-trionic-array-i) |
 ## Hash Table
 |  |
@@ -50,6 +51,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/devhuz/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/devhuz/LeetCode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3379-transformed-array](https://github.com/devhuz/LeetCode-Solutions/tree/master/3379-transformed-array) |
 ## Union-Find
 |  |
 | ------- |
