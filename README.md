@@ -11,6 +11,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/devhuz/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/devhuz/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/devhuz/LeetCode-Solutions/tree/master/0169-majority-element) |
+| [0560-subarray-sum-equals-k](https://github.com/devhuz/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/devhuz/LeetCode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3379-transformed-array](https://github.com/devhuz/LeetCode-Solutions/tree/master/3379-transformed-array) |
 | [3637-trionic-array-i](https://github.com/devhuz/LeetCode-Solutions/tree/master/3637-trionic-array-i) |
@@ -19,6 +20,7 @@
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/devhuz/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/devhuz/LeetCode-Solutions/tree/master/0169-majority-element) |
+| [0560-subarray-sum-equals-k](https://github.com/devhuz/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -60,4 +62,8 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/devhuz/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/devhuz/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
