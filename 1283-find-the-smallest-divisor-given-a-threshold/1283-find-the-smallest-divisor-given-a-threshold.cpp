@@ -1,7 +1,7 @@
 int sum(vector<int>& b,int c){
     int s=0;
     for(int i=0;i<b.size();i++){
-        s+=ceil(double(b[i])/double(c));
+        s+=(b[i]+c-1)/c;
     }
     return s;
 }
