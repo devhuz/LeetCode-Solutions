@@ -8,6 +8,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/devhuz/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/devhuz/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/devhuz/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
+| [0078-subsets](https://github.com/devhuz/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/devhuz/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/devhuz/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/devhuz/LeetCode-Solutions/tree/master/0169-majority-element) |
@@ -93,10 +94,15 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/devhuz/LeetCode-Solutions/tree/master/0029-divide-two-integers) |
+| [0078-subsets](https://github.com/devhuz/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/devhuz/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/devhuz/LeetCode-Solutions/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Recursion
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/devhuz/LeetCode-Solutions/tree/master/0231-power-of-two) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/devhuz/LeetCode-Solutions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
