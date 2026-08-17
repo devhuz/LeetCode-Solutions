@@ -61,6 +61,7 @@
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/devhuz/LeetCode-Solutions/tree/master/0031-next-permutation) |
+| [0876-middle-of-the-linked-list](https://github.com/devhuz/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/devhuz/LeetCode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Simulation
 |  |
@@ -105,4 +106,8 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/devhuz/LeetCode-Solutions/tree/master/0078-subsets) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/devhuz/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
