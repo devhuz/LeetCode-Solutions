@@ -26,6 +26,7 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/devhuz/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0141-linked-list-cycle](https://github.com/devhuz/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/devhuz/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0560-subarray-sum-equals-k](https://github.com/devhuz/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [3719-longest-balanced-subarray-i](https://github.com/devhuz/LeetCode-Solutions/tree/master/3719-longest-balanced-subarray-i) |
@@ -61,6 +62,7 @@
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/devhuz/LeetCode-Solutions/tree/master/0031-next-permutation) |
+| [0141-linked-list-cycle](https://github.com/devhuz/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0876-middle-of-the-linked-list](https://github.com/devhuz/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/devhuz/LeetCode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Simulation
@@ -110,6 +112,11 @@
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/devhuz/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/devhuz/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/devhuz/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/devhuz/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
