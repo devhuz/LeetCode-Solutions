@@ -107,6 +107,7 @@
 | [0029-divide-two-integers](https://github.com/devhuz/LeetCode-Solutions/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/devhuz/LeetCode-Solutions/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/devhuz/LeetCode-Solutions/tree/master/0231-power-of-two) |
+| [1922-count-good-numbers](https://github.com/devhuz/LeetCode-Solutions/tree/master/1922-count-good-numbers) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -123,6 +124,7 @@
 | [0206-reverse-linked-list](https://github.com/devhuz/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/devhuz/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/devhuz/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
+| [1922-count-good-numbers](https://github.com/devhuz/LeetCode-Solutions/tree/master/1922-count-good-numbers) |
 ## Backtracking
 |  |
 | ------- |
