@@ -160,6 +160,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/devhuz/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/devhuz/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 ## Merge Sort
 |  |
@@ -169,9 +170,11 @@
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/devhuz/LeetCode-Solutions/tree/master/0008-string-to-integer-atoi) |
+| [0020-valid-parentheses](https://github.com/devhuz/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/devhuz/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/devhuz/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/devhuz/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
