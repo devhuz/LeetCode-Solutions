@@ -22,6 +22,7 @@
 | [1539-kth-missing-positive-number](https://github.com/devhuz/LeetCode-Solutions/tree/master/1539-kth-missing-positive-number) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/devhuz/LeetCode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3379-transformed-array](https://github.com/devhuz/LeetCode-Solutions/tree/master/3379-transformed-array) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/devhuz/LeetCode-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3637-trionic-array-i](https://github.com/devhuz/LeetCode-Solutions/tree/master/3637-trionic-array-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/devhuz/LeetCode-Solutions/tree/master/3719-longest-balanced-subarray-i) |
 | [3875-construct-uniform-parity-array-i](https://github.com/devhuz/LeetCode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
@@ -35,6 +36,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/devhuz/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/devhuz/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0560-subarray-sum-equals-k](https://github.com/devhuz/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/devhuz/LeetCode-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3719-longest-balanced-subarray-i](https://github.com/devhuz/LeetCode-Solutions/tree/master/3719-longest-balanced-subarray-i) |
 ## Divide and Conquer
 |  |
@@ -96,6 +98,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/devhuz/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/devhuz/LeetCode-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -121,6 +124,7 @@
 | [0078-subsets](https://github.com/devhuz/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/devhuz/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/devhuz/LeetCode-Solutions/tree/master/2220-minimum-bit-flips-to-convert-number) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/devhuz/LeetCode-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Recursion
 |  |
 | ------- |
@@ -186,4 +190,8 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/devhuz/LeetCode-Solutions/tree/master/0155-min-stack) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/devhuz/LeetCode-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 <!---LeetCode Topics End-->
