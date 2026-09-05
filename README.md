@@ -31,6 +31,7 @@
 | [3875-construct-uniform-parity-array-i](https://github.com/devhuz/LeetCode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/devhuz/LeetCode-Solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/devhuz/LeetCode-Solutions/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/devhuz/LeetCode-Solutions/tree/master/3904-smallest-stable-index-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -112,6 +113,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/devhuz/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [3719-longest-balanced-subarray-i](https://github.com/devhuz/LeetCode-Solutions/tree/master/3719-longest-balanced-subarray-i) |
 | [3903-smallest-stable-index-i](https://github.com/devhuz/LeetCode-Solutions/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/devhuz/LeetCode-Solutions/tree/master/3904-smallest-stable-index-ii) |
 ## Segment Tree
 |  |
 | ------- |
