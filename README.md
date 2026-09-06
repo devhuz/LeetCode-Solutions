@@ -67,6 +67,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/devhuz/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/devhuz/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
+| [0115-distinct-subsequences](https://github.com/devhuz/LeetCode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/devhuz/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Binary Search
 |  |
@@ -193,6 +194,7 @@
 | [0008-string-to-integer-atoi](https://github.com/devhuz/LeetCode-Solutions/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/devhuz/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/devhuz/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
+| [0115-distinct-subsequences](https://github.com/devhuz/LeetCode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0657-robot-return-to-origin](https://github.com/devhuz/LeetCode-Solutions/tree/master/0657-robot-return-to-origin) |
 ## Bracket Sequences
 |  |
