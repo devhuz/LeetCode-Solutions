@@ -74,6 +74,7 @@
 | [0115-distinct-subsequences](https://github.com/devhuz/LeetCode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/devhuz/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0907-sum-of-subarray-minimums](https://github.com/devhuz/LeetCode-Solutions/tree/master/0907-sum-of-subarray-minimums) |
+| [0940-distinct-subsequences-ii](https://github.com/devhuz/LeetCode-Solutions/tree/master/0940-distinct-subsequences-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -206,6 +207,7 @@
 | [0022-generate-parentheses](https://github.com/devhuz/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0115-distinct-subsequences](https://github.com/devhuz/LeetCode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0657-robot-return-to-origin](https://github.com/devhuz/LeetCode-Solutions/tree/master/0657-robot-return-to-origin) |
+| [0940-distinct-subsequences-ii](https://github.com/devhuz/LeetCode-Solutions/tree/master/0940-distinct-subsequences-ii) |
 ## Bracket Sequences
 |  |
 | ------- |
