@@ -30,6 +30,7 @@
 | [2104-sum-of-subarray-ranges](https://github.com/devhuz/LeetCode-Solutions/tree/master/2104-sum-of-subarray-ranges) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/devhuz/LeetCode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3379-transformed-array](https://github.com/devhuz/LeetCode-Solutions/tree/master/3379-transformed-array) |
+| [3483-unique-3-digit-even-numbers](https://github.com/devhuz/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/devhuz/LeetCode-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3637-trionic-array-i](https://github.com/devhuz/LeetCode-Solutions/tree/master/3637-trionic-array-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/devhuz/LeetCode-Solutions/tree/master/3719-longest-balanced-subarray-i) |
@@ -50,6 +51,7 @@
 | [0169-majority-element](https://github.com/devhuz/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0496-next-greater-element-i](https://github.com/devhuz/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/devhuz/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [3483-unique-3-digit-even-numbers](https://github.com/devhuz/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/devhuz/LeetCode-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3719-longest-balanced-subarray-i](https://github.com/devhuz/LeetCode-Solutions/tree/master/3719-longest-balanced-subarray-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/devhuz/LeetCode-Solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -161,6 +163,7 @@
 | [0231-power-of-two](https://github.com/devhuz/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/devhuz/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [1922-count-good-numbers](https://github.com/devhuz/LeetCode-Solutions/tree/master/1922-count-good-numbers) |
+| [3483-unique-3-digit-even-numbers](https://github.com/devhuz/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Backtracking
 |  |
 | ------- |
@@ -287,4 +290,8 @@
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/devhuz/LeetCode-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Enumeration
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/devhuz/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
