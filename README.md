@@ -27,6 +27,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/devhuz/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/devhuz/LeetCode-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/devhuz/LeetCode-Solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/devhuz/LeetCode-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/devhuz/LeetCode-Solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/devhuz/LeetCode-Solutions/tree/master/1539-kth-missing-positive-number) |
 | [2104-sum-of-subarray-ranges](https://github.com/devhuz/LeetCode-Solutions/tree/master/2104-sum-of-subarray-ranges) |
@@ -54,6 +55,7 @@
 | [0169-majority-element](https://github.com/devhuz/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0496-next-greater-element-i](https://github.com/devhuz/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/devhuz/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/devhuz/LeetCode-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/devhuz/LeetCode-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3483-unique-3-digit-even-numbers](https://github.com/devhuz/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/devhuz/LeetCode-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -87,6 +89,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/devhuz/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0907-sum-of-subarray-minimums](https://github.com/devhuz/LeetCode-Solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [0940-distinct-subsequences-ii](https://github.com/devhuz/LeetCode-Solutions/tree/master/0940-distinct-subsequences-ii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/devhuz/LeetCode-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/devhuz/LeetCode-Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/devhuz/LeetCode-Solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Binary Search
@@ -97,6 +100,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/devhuz/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/devhuz/LeetCode-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/devhuz/LeetCode-Solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/devhuz/LeetCode-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/devhuz/LeetCode-Solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/devhuz/LeetCode-Solutions/tree/master/1539-kth-missing-positive-number) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/devhuz/LeetCode-Solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -284,6 +288,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/devhuz/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/devhuz/LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [1004-max-consecutive-ones-iii](https://github.com/devhuz/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/devhuz/LeetCode-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
