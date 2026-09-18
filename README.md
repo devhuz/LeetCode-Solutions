@@ -54,6 +54,7 @@
 | [0169-majority-element](https://github.com/devhuz/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0496-next-greater-element-i](https://github.com/devhuz/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/devhuz/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/devhuz/LeetCode-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3483-unique-3-digit-even-numbers](https://github.com/devhuz/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/devhuz/LeetCode-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3719-longest-balanced-subarray-i](https://github.com/devhuz/LeetCode-Solutions/tree/master/3719-longest-balanced-subarray-i) |
@@ -70,6 +71,7 @@
 | ------- |
 | [0148-sort-list](https://github.com/devhuz/LeetCode-Solutions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/devhuz/LeetCode-Solutions/tree/master/0169-majority-element) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/devhuz/LeetCode-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/devhuz/LeetCode-Solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Counting
 |  |
@@ -236,6 +238,7 @@
 | [0402-remove-k-digits](https://github.com/devhuz/LeetCode-Solutions/tree/master/0402-remove-k-digits) |
 | [0657-robot-return-to-origin](https://github.com/devhuz/LeetCode-Solutions/tree/master/0657-robot-return-to-origin) |
 | [0940-distinct-subsequences-ii](https://github.com/devhuz/LeetCode-Solutions/tree/master/0940-distinct-subsequences-ii) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/devhuz/LeetCode-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -265,6 +268,7 @@
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/devhuz/LeetCode-Solutions/tree/master/0402-remove-k-digits) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/devhuz/LeetCode-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
