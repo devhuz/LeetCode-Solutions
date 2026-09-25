@@ -58,6 +58,7 @@
 | [0169-majority-element](https://github.com/devhuz/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0496-next-greater-element-i](https://github.com/devhuz/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/devhuz/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [1096-brace-expansion-ii](https://github.com/devhuz/LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/devhuz/LeetCode-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/devhuz/LeetCode-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/devhuz/LeetCode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -77,6 +78,7 @@
 | ------- |
 | [0148-sort-list](https://github.com/devhuz/LeetCode-Solutions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/devhuz/LeetCode-Solutions/tree/master/0169-majority-element) |
+| [1096-brace-expansion-ii](https://github.com/devhuz/LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/devhuz/LeetCode-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/devhuz/LeetCode-Solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Counting
@@ -201,6 +203,7 @@
 | [0039-combination-sum](https://github.com/devhuz/LeetCode-Solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/devhuz/LeetCode-Solutions/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/devhuz/LeetCode-Solutions/tree/master/0078-subsets) |
+| [1096-brace-expansion-ii](https://github.com/devhuz/LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -237,6 +240,7 @@
 | [0735-asteroid-collision](https://github.com/devhuz/LeetCode-Solutions/tree/master/0735-asteroid-collision) |
 | [0901-online-stock-span](https://github.com/devhuz/LeetCode-Solutions/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/devhuz/LeetCode-Solutions/tree/master/0907-sum-of-subarray-minimums) |
+| [1096-brace-expansion-ii](https://github.com/devhuz/LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
 | [2104-sum-of-subarray-ranges](https://github.com/devhuz/LeetCode-Solutions/tree/master/2104-sum-of-subarray-ranges) |
 ## Merge Sort
 |  |
@@ -253,6 +257,7 @@
 | [0402-remove-k-digits](https://github.com/devhuz/LeetCode-Solutions/tree/master/0402-remove-k-digits) |
 | [0657-robot-return-to-origin](https://github.com/devhuz/LeetCode-Solutions/tree/master/0657-robot-return-to-origin) |
 | [0940-distinct-subsequences-ii](https://github.com/devhuz/LeetCode-Solutions/tree/master/0940-distinct-subsequences-ii) |
+| [1096-brace-expansion-ii](https://github.com/devhuz/LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/devhuz/LeetCode-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3498-reverse-degree-of-a-string](https://github.com/devhuz/LeetCode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Bracket Sequences
@@ -268,6 +273,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/devhuz/LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/devhuz/LeetCode-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Monotonic Stack
 |  |
