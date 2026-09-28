@@ -31,6 +31,7 @@
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/devhuz/LeetCode-Solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/devhuz/LeetCode-Solutions/tree/master/1539-kth-missing-positive-number) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/devhuz/LeetCode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/devhuz/LeetCode-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2104-sum-of-subarray-ranges](https://github.com/devhuz/LeetCode-Solutions/tree/master/2104-sum-of-subarray-ranges) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/devhuz/LeetCode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3379-transformed-array](https://github.com/devhuz/LeetCode-Solutions/tree/master/3379-transformed-array) |
@@ -62,6 +63,7 @@
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/devhuz/LeetCode-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/devhuz/LeetCode-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/devhuz/LeetCode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/devhuz/LeetCode-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3483-unique-3-digit-even-numbers](https://github.com/devhuz/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/devhuz/LeetCode-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3719-longest-balanced-subarray-i](https://github.com/devhuz/LeetCode-Solutions/tree/master/3719-longest-balanced-subarray-i) |
@@ -263,6 +265,7 @@
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/devhuz/LeetCode-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/devhuz/LeetCode-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/devhuz/LeetCode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/devhuz/LeetCode-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/devhuz/LeetCode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Bracket Sequences
 |  |
