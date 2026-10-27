@@ -11,6 +11,7 @@
 | [0042-trapping-rain-water](https://github.com/devhuz/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/devhuz/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/devhuz/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/devhuz/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/devhuz/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/devhuz/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/devhuz/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -96,6 +97,7 @@
 | [0022-generate-parentheses](https://github.com/devhuz/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/devhuz/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/devhuz/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/devhuz/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0115-distinct-subsequences](https://github.com/devhuz/LeetCode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/devhuz/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0907-sum-of-subarray-minimums](https://github.com/devhuz/LeetCode-Solutions/tree/master/0907-sum-of-subarray-minimums) |
@@ -305,6 +307,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/devhuz/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/devhuz/LeetCode-Solutions/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/devhuz/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/devhuz/LeetCode-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
